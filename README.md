@@ -11,3 +11,5 @@ Brew detects when you start writing crappy code, brews you some coffee, and empo
 Why should I use Brew()?
 
 Because let's face it, when you're tired... YOUR CODE SUCKS!
+
+Learn more about Brew() here:  http://www.ipponusa.com/ippons-solution-to-tired-engineers/
